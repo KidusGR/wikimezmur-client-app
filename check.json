@@ -1,0 +1,29 @@
+{
+  "data": {
+    "urls": {
+      "home": "https://wikimezmur.org/",
+      "artists": {
+        "am": "https://wikimezmur.org/am/Gospel_Singers",
+        "or": "https://wikimezmur.org/am/Oromiffa/Classics",
+        "tg": "https://wikimezmur.org/am/Tigrinya/Classics"
+      },
+      "pre": "https://wikimezmur.org"
+    },
+    "styles": {
+      "home": {
+        "post": "margin-left:5px; margin-right:5px; float:left",
+        "new": "width:240px; float: left; padding:2px; margin:4px;",
+        "stats": [
+          "width:125px; background:#FCCFFF; padding:10px; margin:5px; color:gray; float:left",
+          "width:125px; background:#CFFFFF; padding:10px; margin:5px; color:gray; float:left",
+          "width:125px; background:#CCCCFF; padding:10px; margin:5px; float:left",
+          "width:125px; background:#FEE8D6; padding:10px; margin:5px; color:gray; float:left"
+        ]
+      },
+      "artists": [
+        "border: 1px solid gray; background: #FFFFCC; font-size: 110%;",
+        "border: 1px solid gray; background: #FFFFCC; font-size: 125%;"
+      ]
+    }
+  }
+}
